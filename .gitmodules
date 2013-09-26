@@ -1,0 +1,6 @@
+[submodule "src/ios/sdk"]
+	path = src/ios/sdk
+	url = git@github.com:quantcast/ios-measurement.git
+[submodule "src/android/sdk"]
+	path = src/android/sdk
+	url = git@github.com:quantcast/android-measurement.git
