@@ -83,28 +83,28 @@
         <header-file src="src/ios/QuantcastMeasurementPlugin.h" />
         
         <!-- SDK Code -->
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastNetworkReachability.h" />
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastParameters.h" />
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastOptOutDelegate.h" />
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastDatabase.h" />
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastEventLogger.h" />
-        <source-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastDatabase.m" compiler-flags="-fno-objc-arc"/>
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastDataManager.h" />
-        <source-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastDataManager.m" compiler-flags="-fno-objc-arc"/>
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastEvent.h" />
-        <source-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastEvent.m" compiler-flags="-fno-objc-arc"/>
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastMeasurement.h" />
-        <source-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastMeasurement.m" compiler-flags="-fno-objc-arc"/>
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastOptOutViewController.h" />
-        <source-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastOptOutViewController.m" compiler-flags="-fno-objc-arc"/>
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastPolicy.h" />
-        <source-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastPolicy.m" compiler-flags="-fno-objc-arc"/>
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastUploadJSONOperation.h" />
-        <source-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastUploadJSONOperation.m" compiler-flags="-fno-objc-arc"/>
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastUploadManager.h" />
-        <source-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastUploadManager.m" compiler-flags="-fno-objc-arc"/>
-        <header-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastUtils.h" />
-        <source-file src="src/ios/sdk/Quantcast-iOS-Measurement/QuantcastUtils.m" compiler-flags="-fno-objc-arc"/>
+        <header-file src="src/ios/sdk/QuantcastNetworkReachability.h" />
+        <header-file src="src/ios/sdk/QuantcastParameters.h" />
+        <header-file src="src/ios/sdk/QuantcastOptOutDelegate.h" />
+        <header-file src="src/ios/sdk/QuantcastDatabase.h" />
+        <header-file src="src/ios/sdk/QuantcastEventLogger.h" />
+        <source-file src="src/ios/sdk/QuantcastDatabase.m" compiler-flags="-fno-objc-arc"/>
+        <header-file src="src/ios/sdk/QuantcastDataManager.h" />
+        <source-file src="src/ios/sdk/QuantcastDataManager.m" compiler-flags="-fno-objc-arc"/>
+        <header-file src="src/ios/sdk/QuantcastEvent.h" />
+        <source-file src="src/ios/sdk/QuantcastEvent.m" compiler-flags="-fno-objc-arc"/>
+        <header-file src="src/ios/sdk/QuantcastMeasurement.h" />
+        <source-file src="src/ios/sdk/QuantcastMeasurement.m" compiler-flags="-fno-objc-arc"/>
+        <header-file src="src/ios/sdk/QuantcastOptOutViewController.h" />
+        <source-file src="src/ios/sdk/QuantcastOptOutViewController.m" compiler-flags="-fno-objc-arc"/>
+        <header-file src="src/ios/sdk/QuantcastPolicy.h" />
+        <source-file src="src/ios/sdk/QuantcastPolicy.m" compiler-flags="-fno-objc-arc"/>
+        <header-file src="src/ios/sdk/QuantcastUploadJSONOperation.h" />
+        <source-file src="src/ios/sdk/QuantcastUploadJSONOperation.m" compiler-flags="-fno-objc-arc"/>
+        <header-file src="src/ios/sdk/QuantcastUploadManager.h" />
+        <source-file src="src/ios/sdk/QuantcastUploadManager.m" compiler-flags="-fno-objc-arc"/>
+        <header-file src="src/ios/sdk/QuantcastUtils.h" />
+        <source-file src="src/ios/sdk/QuantcastUtils.m" compiler-flags="-fno-objc-arc"/>
 
 
 
